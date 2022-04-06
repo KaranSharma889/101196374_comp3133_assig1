@@ -1,0 +1,11 @@
+.icon{
+    margin-left: 10px;
+    font-size: 18px;
+}
+.bg-pink{
+    background-color: rgba(255, 192, 203, 0.3);
+}
+mat-card-title{
+    font-size: 24px;
+    color: pink;
+}
